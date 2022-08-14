@@ -1,0 +1,5 @@
+auto-sklearn=0.13
+hrv-analysis=1.0.3
+numpy=1.17
+pandas=0.25
+
