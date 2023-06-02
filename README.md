@@ -32,5 +32,3 @@ series = {AutomotiveUI '22}
 
 ```
 - - -
-
-#### Further code documentation coming soon ####
